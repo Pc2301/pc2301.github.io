@@ -10,4 +10,4 @@ This is **my first article** on GitHub Pages using Jekyll!
 
 Here is an embedded image:
 
-!(/assets/images/pc.PNG)
+![Alt text](/assets/images/pc.png)
