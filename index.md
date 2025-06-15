@@ -9,7 +9,7 @@ Hi! I'm Prashant. Welcome to my blog where I write about tech, dev, finance & li
 
 ## 🤖 LLM & AI Articles
 
-- [Understanding LLMs](/2025/06/16/llms/)
+- [Understanding LLMs](/2025/06/14/llms/)
 
 ---
 
