@@ -7,3 +7,24 @@ Hi! I'm Prashant. Welcome to my blog where I write about tech, dev, finance & li
 
 <img src="/assets/images/pc.PNG" alt="My Setup" width="600" />
 
+## 🤖 LLM & AI Articles
+
+- [Understanding Large Language Models (LLMs)](llm.html)
+
+---
+
+## 🐍 Python Articles
+
+
+
+---
+
+## 🌐 Web Development
+
+*Coming soon...*
+
+---
+
+📌 *All posts are written by Prashant Chauhan. More articles coming soon!*
+
+
