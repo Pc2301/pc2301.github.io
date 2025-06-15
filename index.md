@@ -15,14 +15,7 @@ Hi! I'm Prashant. Welcome to my blog where I write about tech, dev, finance & li
 
 ## 🐍 Python Articles
 
-
-
----
-
-## 🌐 Web Development
-
-*Coming soon...*
-
+<!-- Future posts will go here -->
 ---
 
 📌 *All posts are written by Prashant Chauhan. More articles coming soon!*
