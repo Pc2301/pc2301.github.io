@@ -3,3 +3,7 @@ description: ""
 baseurl: ""
 url: "https://prashant23.github.io"
 theme: minima
+sass:
+  style: compressed
+include:
+  - _includes/custom-head.html
