@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My First Article"
+title: "Prashant's Blog"
 date: 2024-06-15 20:00:00 +0530
 ---
 
@@ -10,4 +10,4 @@ This is **my first article** on GitHub Pages using Jekyll!
 
 Here is an embedded image:
 
-!(/assets/images/article1-pc.PNG)
+!(/assets/images/pc.PNG)
