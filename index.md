@@ -9,8 +9,10 @@ Hi! I'm Prashant. Welcome to my blog where I write about tech, dev, finance & li
 
 ## 🤖 LLM & AI Articles
 
-- [Understanding LLMs](/2025/06/14/llms/)
-
+{% for post in site.categories.LLM %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
+- 
 ---
 
 ## 🐍 Python Articles
