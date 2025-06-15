@@ -9,7 +9,7 @@ Hi! I'm Prashant. Welcome to my blog where I write about tech, dev, finance & li
 
 ## 🤖 LLM & AI Articles
 
-- [Understanding Large Language Models (LLMs)](/2025/06/17/understanding-large-language-models-llms.html)
+- [Understanding Large Language Models (LLMs)](/_posts/2025/06/17/understanding-large-language-models-llms.html)
 
 ---
 
