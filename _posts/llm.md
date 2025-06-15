@@ -1,0 +1,57 @@
+---
+layout: post
+title: "Understanding LLMs"
+date: 2025-06-17
+categories: [LLM]
+tags: [LLM]
+---
+
+Large Language Models (LLMs) are a class of machine learning models that are trained on massive datasets consisting of natural language text. These models are capable of understanding, generating, and reasoning with human language.
+
+🔍 What Are LLMs?
+
+LLMs are built using a deep neural network architecture called the Transformer, introduced in the paper "Attention is All You Need". They work by learning patterns in language through billions (or trillions) of parameters.
+
+Popular LLMs include:
+
+GPT-4 by OpenAI
+
+Claude by Anthropic
+
+Gemini by Google DeepMind
+
+LLaMA by Meta
+
+⚙️ Applications
+
+Text summarization
+
+Chatbots and conversational AI
+
+Code generation
+
+Document understanding
+
+Semantic search
+
+📌 How They Work
+
+LLMs are trained using unsupervised learning — typically predicting the next token in a sentence. For example:
+
+Input: "The capital of France is"
+Output: "Paris"
+
+They rely on self-attention mechanisms to capture context from large amounts of text.
+
+🧐 Challenges
+
+High computation and memory costs
+
+Biases in training data
+
+Explainability issues
+
+Hallucinations (fabricated responses)
+
+LLMs are still evolving rapidly and form the backbone of modern AI applications like ChatGPT.
+
