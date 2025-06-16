@@ -3,6 +3,10 @@ layout: default
 title: Prashant Chauhan
 ---
 
+<h1 style="text-align: center; font-weight: bold; font-size: 2.5em; margin-top: 20px;">
+  Prashant Chauhan
+</h1>
+
 <style>
   body {
     background-color: #87CEEB; /* Sky Blue */
