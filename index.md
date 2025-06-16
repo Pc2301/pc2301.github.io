@@ -1,11 +1,22 @@
 ---
-layout: default
+layout: home
 title: Prashant Chauhan
 ---
 
-<h1 style="text-align: center; font-weight: bold; font-size: 2.5em; margin-top: 20px;">
-  Prashant Chauhan
-</h1>
+<style>
+  .page-heading {
+    display: none; /* hides the theme's default title */
+  }
+  .custom-title {
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+</style>
+
+<div class="custom-title">Prashant Chauhan</div>
+
 
 <style>
   body {
