@@ -1,21 +1,18 @@
 ---
 layout: default
-title: Prashant Chauhan
+title: 
 ---
 
 <style>
-  .page-heading {
-    display: none; /* hides the theme's default title */
-  }
-  .custom-title {
+  .top-name {
     text-align: center;
-    font-size: 2.5em;
+    font-size: 28px;
     font-weight: bold;
     margin-top: 20px;
   }
 </style>
 
-<div class="custom-title">Prashant Chauhan</div>
+<div class="top-name">Prashant Chauhan</div>
 
 
 <style>
@@ -55,8 +52,8 @@ title: Prashant Chauhan
 
 <img src="/assets/images/pc.PNG" alt="Prashant C" class="profile-pic" />
 
-Hi! I'm Prashant. I am working at Oracle on Machine Learning & AI. I write about tech, dev, finance & life.
-
+Hi, I'm Prashant!
+I currently work at Oracle Bangalore, where I focus on machine learning , large language models, natural language processing and software development. Outside of work, I'm passionate about finance, personal growth, and life lessons—and this blog is where I share insights and stories across all these areas.
 <div class="contact-links">
   <p>
     Connect with me:<br />
@@ -88,7 +85,7 @@ Hi! I'm Prashant. I am working at Oracle on Machine Learning & AI. I write about
 </div>
 
 <div class="publications-section">
-  <h2>📜 Publications and Conferences</h2>
+  <h3>📜 Publications and Conferences</h3>
   <ul>
     <li>
       <a href="https://www.sciencedirect.com/science/article/abs/pii/S152661251830553X" target="_blank">
