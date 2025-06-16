@@ -3,3 +3,7 @@ description: ""
 baseurl: ""
 url: "https://pc2301.github.io"
 theme: minima
+show_excerpts: false
+minima:
+  social_links: []
+  show_rss: false
