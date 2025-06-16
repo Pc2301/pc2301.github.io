@@ -58,30 +58,24 @@ Hi! I'm Prashant. I am working at Oracle on Machine Learning & AI . I write abou
 
 <div class="blog-section">
 
+
+
 ### 🤖 LLM & AI Articles
 {% for post in site.categories.LLM %}
 - [{{ post.title }}]({{ post.url }})
 {% endfor %}
+- 
+---
 
 ### 🐍 Python Articles
-{% comment %}
-  To use this section:
-  1. Create blog posts and add `category: Python` (or `categories: Python`) to their front matter.
-  2. Ensure your Jekyll setup processes categories.
-{% endcomment %}
-{% assign python_posts = site.categories.Python | default: site.categories.python %}
-{% if python_posts.size > 0 %}
-  {% for post in python_posts %}
-  - [{{ post.title }}]({{ post.url }})
-  {% endfor %}
-{% else %}
-- No Python articles yet.
-{% endif %}
-</div>
+{% for post in site.categories.Python %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
+- 
+---
 
 <div class="publications-section">
-
-### Publications and Conferences
+## 📜 Publications and Conferences
 
 <ul>
   <li>

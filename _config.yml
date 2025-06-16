@@ -1,9 +1,5 @@
-title: ""
+title: "Prashant Chauhan"
 description: ""
 baseurl: ""
-url: "https://prashant23.github.io"
+url: "https://pc2301.github.io"
 theme: minima
-sass:
-  style: compressed
-include:
-  - _includes/custom-head.html
